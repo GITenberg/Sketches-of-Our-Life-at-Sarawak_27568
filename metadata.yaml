@@ -1,0 +1,29 @@
+_repo: Sketches-of-Our-Life-at-Sarawak_27568
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27568-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McDougall, Henriette
+    alias: McDougall, Harriette
+    birthdate: 1817
+    deathdate: 1886
+    gutenberg_agent_id: '32772'
+    url: http://www.gutenberg.org/2009/agents/32772
+description: 'Originally published: London : Society for Promoting Christian Knowledge,
+  1882.'
+gutenberg_issued: '2008-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'McDougall, Henriette, 1817-1886 -- Travel -- Malaysia -- Sarawak'
+- !lcsh 'Sarawak -- Description and travel'
+title: Sketches of Our Life at Sarawak
+url: http://www.gutenberg.org/ebooks/27568
